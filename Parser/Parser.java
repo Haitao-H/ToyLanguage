@@ -3,7 +3,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.ArrayDeque;
 
-
 class Parser {
 	private String target;
 	private Program program;
